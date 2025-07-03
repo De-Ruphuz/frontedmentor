@@ -1,0 +1,1547 @@
+body{
+    padding: 10px 10px;
+    background-color: rgb(250, 250, 250);
+}
+/* PHONE CSS CODE */
+
+/* Home-hero CSS CODE */
+.nav1{
+    display: flex;
+   
+}
+
+.logo-img{
+    width: 100px;
+    height: 25PX;
+}
+
+.nav1part{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav1 a{
+    text-decoration: none;
+    color: #1C2022;
+    font-size: 14.8172PX;
+    font-family: Bahnschrift;
+    margin-right: 3px;
+}
+
+.nav-link span{
+    background-color: #3E54A3;
+    color: #FFFFFF;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.btn{
+    margin-left: 100px;
+}
+.btn button{
+    width: 112.95px;
+    height: 39.59px;
+    margin-top: -50px;
+}
+
+.navbtn span{
+    display: none;
+}
+.loginbtn{
+    background-color: #1C2022;
+    display: flex;
+    position: relative;
+    width: 236.33px;
+    height: 42.94px;
+    justify-content: center;
+    padding: 12px 15px;
+    color: #FFFFFF;
+    font-size: 14.8172px;
+    font-family: Bahnschrift;
+    border-radius: 50px;
+    gap: 6px;
+
+}
+
+.loginbtn img{
+    width: 18.16px;
+    height: 18px;
+}
+.cont1div{
+    gap: 15px;
+}
+.content1{
+    display: flex;
+    flex-direction: column;
+}
+
+.improve{
+    font-size: 33px;
+    font-family: Bahnschrift;
+    color: #3E54A3;
+}
+
+.Our-Professionally{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #737373;
+}
+
+.cont-btn button{
+    background-color: #ED2C49;
+    border: none;
+}
+
+.community{
+    margin-top: 40px;
+    padding: 10px 15px;
+}
+.community img{
+    width: 100%;
+}
+
+.Com-join{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: center;
+    line-height: 25px;
+    color: #1C2022;
+}
+
+.Com-join span {
+    color: #3E54A3;
+}
+
+/* main2 CSS CODE */
+
+.main2{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(250, 248, 248);
+    width: 100%;
+    margin-top: 80px;
+    gap: 20px;
+}
+
+.dev-group{
+    background-color: #FFFFFF;
+    justify-items: center;
+    padding: 15px;
+    box-shadow: 0 0 5px rgb(221, 221, 224);
+    border-radius: 10px;
+}
+
+.quote-img{
+    width: 52.2px;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+.grptext{
+    font-size: 17px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #1C2022;
+}
+
+.devimg img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+}
+
+.kev-jess{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #3E54A3;
+    text-align: center;
+}
+
+.kev-jess span{
+    font-size: 14px;
+    color: #737373;
+}
+
+/* main 3 css code */
+.main3{
+    margin-top: 100px;
+}
+.AS-FEAT{
+    text-align: center;
+    font-family: sans-serif;
+    color: #1C2022;
+    font-weight: bolder;
+}
+
+.content2{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.cont2-logos{
+    width: 300.19px;
+    height: 80px;
+    padding: 24px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 5px rgb(221, 221, 224);
+    border-radius: 10px;
+}
+
+.cont2-logos img{
+    align-items: center;
+    padding-left: 15px;
+}
+
+.home-benefits{
+    padding-top: 120px;
+}
+.home-benefits img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.hom-ben-cont{
+    margin-top: 100px;
+
+}
+
+.emojis{
+    border-radius: 100px;
+    background-color: #f0f4f4;
+    width: 83px;
+    height: 80px;
+    align-content: center;
+    padding: 22px;
+}
+
+.emojis img{
+    width: 30px;
+    height: 35px;
+    align-items: center;
+}
+
+.hom-ben-text1{
+ font-family: Bahnschrift;
+ font-size: 27px;
+ color: #1C2022;
+ margin-top: 20px;
+}
+
+.hom-ben-text2{
+    font-family: sans-serif;
+    font-size: 16.7px;
+    color: #737373;
+    line-height: 25px;
+}
+
+.hom-ben-text2 a{
+    color: #737373;
+}
+
+
+/* main 4css code */
+
+.main-4{
+    background-color: #f0f4f4;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+}
+
+.main-4 img{
+    width: 100%;
+}
+
+.How-it-works{
+    text-align: center;
+    font-family: Bahnschrift;
+    color: #1C2022;
+}
+
+.list1-4{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+
+.howitwork-list{
+    background-color: #3E54A3;
+    width: 80%;
+    align-self: center;
+     padding: 20px;
+    border-radius: 10px;
+}
+
+.howitwork-list h2{
+    color: #FFFFFF;
+    font-family: Bahnschrift;
+    font-size: 22px;
+    display: flex;
+   
+}
+
+
+.num{
+    padding: 10px 18px;
+    background: #FFFFFF;
+    color: #3E54A3;
+    border-radius: 100px;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+.list-text{
+    font-family: sans-serif;
+    font-size: 19px;
+    color: #DBE5E6;
+}
+
+/* main-5 CSS CODE */
+
+.main-5{
+    background-color: #FFFFFF;
+    padding: 20px;
+    justify-items: center;
+}
+
+.takeurskill{
+    font-size: 28px;
+    font-family:Bahnschrift;
+    color: #1C2022;
+    text-align: center;
+}
+.takeurskill br{ 
+    display: none;
+}
+
+.takeurskill span{
+    color: #FFFFFF;
+    background-color: #3E54A3;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main-5txt{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #737373;
+    text-align: center;
+}
+
+.main5group{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 200px;
+}
+
+.main5grp{
+    padding: 20px;
+    justify-items: center;
+}
+
+.main5grp img{
+    width: 45px;
+    height: 61px;
+}
+
+.AccessTackle{
+    font-family: Bahnschrift;
+    font-size: 28px;
+    color: #1C2022;
+    text-align: center;
+}
+
+.main5grptxt{
+    font-family: sans-serif;
+    color: #737373;
+    font-size: 19px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.M5Btndiv{
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.main5btn{
+    font-family: Bahnschrift;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: #ED2C49;
+    padding: 18px 25px;
+    border-radius: 50px;
+    border: none;
+}
+
+/* MAIN 6 CSS CODE */
+.main-6{
+    background-color: #DBE5E6;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+}
+
+.main6-top{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.Alittle{
+    font-family: Bahnschrift;
+    font-size: 45px;
+    color: #1C2022;
+    text-align: center;
+}
+.arrowdiv{
+    display: flex;
+    gap: 20px;
+}
+.arrow img{
+    width: 30px;
+    height: 23px;
+}
+
+.arrow{
+    background-color: #3E54A3;
+    padding-top: 18px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    border-radius: 100px;
+    width: 58px;
+    height: 62px;
+}
+
+.main6group{
+    padding: 10px;
+    margin-top: 40px;
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    gap: 20px;
+    overflow: scroll;
+}
+
+.main6grp{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    font-size: 16.5px;
+    line-height: 25px;
+    display: grid;
+    grid-template-rows: 69% 36%;
+}
+
+.FAHGrp{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.FAHGrp img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+}
+
+.FAH{
+    text-align: left;
+    font-family: Bahnschrift;
+    color: #3E54A3;
+    font-size: 20px;
+}
+
+.FAH span{
+    color: #737373;
+    font-size: 16px;
+}
+
+/* main-7 css code */
+
+.main-7{
+    padding: 10px;
+    margin-top: 100px;
+    
+}
+
+.FAQs{
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: 50px;
+}
+
+.Fag-lst{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    gap: 20px;
+}
+.list{
+    width: 290px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid rgb(235, 229, 229);
+    background-color: #FFFFFF;
+    box-shadow: 0 0 5px rgb(250, 248, 248);
+    padding: 16px 24px;
+    display: grid;
+    grid-template-columns: 85% 15%;
+    
+}
+.list img{
+    width: 15.75;
+    height: 18px;
+    justify-items: right;
+    margin: auto;
+}
+.list span{
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.listtxt{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1C2022;
+}
+
+.join-text{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Bahnschrift;
+    color: #3E54A3;
+    font-size:35px;
+}
+
+.our-highly{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 40px;
+    text-align: center;
+    line-height: 35px;
+    color: #737373;
+    margin-bottom: 50px;
+}
+
+.m7cont-btn  button{
+    background-color: #ED2C49;
+    border: none;
+}
+
+
+/* main 8 css code */
+
+.main-8{
+    background-color: #3E54A3;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Are-you{
+    font-family: Bahnschrift;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.Our-Hiring{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 22px;
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+.main8-btn{
+    margin: 50px 0px;
+}
+
+.Start-Hiring{
+    background-color:ta #FFFFFF;
+    padding: 12px 20px;
+    border-radius: 50px;
+    border: none;
+    font-family: Bahnschrift;
+    font-size: 16px;
+    color: #3E54A3;
+}
+
+.main-8 img{
+    width: 100%;
+}
+
+/* main-9 css code */
+
+.main-9{
+    margin-top: 50px;
+    
+}
+
+.main9nav{
+    display: flex;
+    flex-direction: column;
+}
+
+.main9grp{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.Stay-up{
+    color: #3E54A3;
+    font-family: Bahnschrift;
+    font-size: 30px;
+}
+
+.with-new{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1C2022;
+    line-height: 25px;
+}
+
+.email-btn{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.email-sub input{
+    width: 270px;
+    height: 35px;
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+    color: #737373;
+    font-size: 20px;
+    padding: 5px;
+    border: 0.5px solid #dbd6d6;
+    border-radius: 10px;
+}
+
+.main9-btn button{
+    background-color: #ED2C49;
+    font-family: Bahnschrift;
+    font-size: 18px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 50px;
+    color: #FFFFFF;
+}
+
+.grp2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.grp2txt{
+    font-family: Bahnschrift;
+    font-size: 20px;
+    color: #1C2022;
+}
+
+.grp2txt ul{
+    font-family: sans-serif;
+    list-style: none;
+    color: #737373;
+    margin-left: -38px;
+    line-height: 15px;
+}
+
+hr{
+    color: #737373;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+/* footer css code */
+
+footer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.footertxt{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #737373;
+}
+
+.footertxt2 a{
+    text-decoration: none;
+    color: #737373;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-right: 15px;
+}
+
+/* TAB CSS CODE */
+@media (min-width: 768px) {
+
+.nav1{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-img{
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+}
+.nav1part{
+    justify-items: center;
+}
+ .nav1 a{
+    font-size: 20px;
+ }   
+
+.content1{
+    margin-top: 60px;
+    gap: 5px;
+    overflow: hidden;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+.improve{
+    font-size: 45px;
+}
+
+.Our-Professionally{
+    font-size: 22px;
+}
+.cont-img{
+    width: 900px;
+}
+
+.btn{
+    margin-left: 135px;
+}
+
+.btn button{
+    width: 320.33px;
+    height: 70.94px;
+    padding: 25px 15px;
+    font-size: 25px;
+    margin-top: -58px;
+}
+
+.navbtn span{
+    display: initial;
+}
+
+.loginbtn img{
+    width: 40px;
+    height: 35px;
+    margin-top: -5px;
+}
+
+.community{
+    display: flex;
+    gap: 10px;
+}
+.community img{
+    width: 210px;
+    height: 90px;
+    margin-top: 18px;
+}
+
+.Com-join{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+
+/* Main-2 TAb Code */
+.main2{
+    width: 100%;
+    gap: 40px;
+    background-color: #f0f4f4;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-radius: 30px;
+}
+
+.dev-group{
+    padding: 30px 20px;
+    width: 85%;
+    align-self: center;
+    
+}
+
+.quote-img{
+    width: 65px;
+    height: 55px;
+}
+
+.grptext{
+    font-size: 25px;
+}
+
+.devimg img{
+    width: 150px;
+    height: 150px;
+}
+
+.kev-jess{
+    font-size: 30px;
+}
+
+.kev-jess span{
+    font-size: 25px;
+}
+
+/* main3 TAB CODE */
+
+.main3{
+    margin-top: 100px;
+    
+}
+.AS-FEAT{
+ font-size: 25px;
+}
+
+.content2{
+    flex-direction: row;
+    gap: 22px;
+    justify-self: center;
+}
+
+.cont2-logos{
+    width: 222px;
+    height: 80px;
+    padding: 24px;
+    border-radius: 25px;
+}
+
+.cont2-logos img{
+    padding-top: 5px;
+    width: 165.3px;
+    height: auto;
+}
+
+.home-benefits{
+    display: grid;
+    grid-template-columns: 50% 50%; 
+    gap: 20px;
+    padding: 10px;
+    margin-top: 50px;
+}
+   
+    
+.hom-ben-cont{
+    margin-top: -15px;
+}
+
+.emojis{
+    margin-bottom: 50px;
+}
+
+.hom-ben-text1{
+    font-size: 42px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.hom-ben-text2{
+    font-size: 20.7px;
+    line-height: 25px;
+}
+
+/* main 4css code */
+
+.main-4{
+ margin-top: 100px;
+}
+
+.How-it-works{
+    font-size: 70px;
+}
+
+
+.howitwork-list{
+    border-radius: 30px;
+}
+
+.howitwork-list h2{
+    font-size: 35px;
+}
+
+.num{
+    padding: 10px 22px;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+
+.list-text{
+    font-size: 30px;
+    margin-top: -20px;
+    line-height: 35px;
+}
+
+/* main-5 CSS CODE */
+
+
+.takeurskill{
+    font-size: 41px;
+    line-height: 60px;
+    margin-top: 100px;
+}
+.takeurskill br{ 
+    display: initial;
+}
+
+.main-5txt{
+    font-size: 30px;
+
+}
+
+.main-5txt br{
+    display: none;
+}
+
+.main5group{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+    margin-top: 100px;
+}
+
+
+.main5grp img{
+    width: 50px;
+    height: 61px;
+}
+
+.AccessTackle{
+    font-size: 29px;
+}
+
+.main5grptxt{
+    font-size: 22px;
+}
+
+/* MAIN 6 CSS CODE */
+
+.main6-top{
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 30px;
+}
+
+.Alittle{
+    text-align: left;
+}
+.arrow img{
+    width: 50px;
+    height: 30px;
+}
+
+.arrow{
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    width: 70px;
+    height: 75px;
+}
+
+.main6group{
+    padding: 10px;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 47% 47% 47%;
+    gap: 18px;
+    overflow: scroll;
+}
+
+.main6grp{
+    
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 35px;
+    display: grid;
+    grid-template-rows: 69% 36%;
+}
+
+.FAHGrp{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.FAHGrp img{
+    margin-top: -10px;
+    width: 90px;
+    height: 90px;
+}
+
+.FAH{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.FAH span{
+    font-size: 20px;
+}
+
+/* main-7 css code */
+
+.FAQs{
+    font-size: 55px;
+}
+
+.list{
+    width: 648px;
+    display: grid;
+    grid-template-columns: 85% 15%;
+    
+}
+.list span{
+    margin-left: 2px;
+}
+.list img{
+    width: 17;
+    height: 18px;
+    justify-items: right;
+    margin-left: 60px;
+}
+
+.listtxt{
+    font-size: 20px;
+}
+
+
+.join-text{
+    font-size:45px;
+}
+
+.our-highly{
+    font-size: 28px;
+}
+
+.loginbtn{
+    justify-self: center;
+}
+
+/* main 8 css code */
+
+.main-8{
+    padding-top: 90px;
+}
+
+.Are-you{
+    font-size: 42px;
+}
+.Our-Hiring{
+    font-size: 25px;
+}
+
+.Start-Hiring{
+    padding: 20px 30px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+/* main-9 css code */
+
+.main-9{
+    margin-top: 50px;
+    
+}
+
+.main9nav{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navimg1{
+    width: 250px;
+    height: 38px;
+}
+.navimg2{
+    width: 250px;
+    height: 65px;
+    margin-top: -10px;
+}
+
+.Stay-up{
+    font-size: 35px;
+}
+
+.with-new{
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.email-btn{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.email-sub input{
+    width: 300px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.main9-btn button{
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 12px 28px;
+}
+
+.grp2{
+    display: grid;
+    grid-template-columns: 25% 23% 21% 23%;
+    gap: 30px;
+}
+
+.grp2txt{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.grp2txt ul{
+    font-family: sans-serif;
+    font-weight: initial;
+}
+
+/* footer css code */
+
+footer{
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+.footertxt{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #737373;
+}
+
+.footertxt2 a{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-right: 5px;
+}
+
+}
+
+
+/* LAPTOP SCREEN CSS CODE */
+@media (min-width:1280px) {
+
+.Home-hero{
+    margin-top: 10px;
+}
+.logo-img{
+    width: 300px;
+    height: 50PX;
+}
+
+.container-fluid{
+    margin-top: -17px;
+}
+.nav1part{
+    gap: 15px;
+    display: flex;
+}
+ .nav1 a{
+    font-size: 22px;
+    margin-top: 10px;
+ }   
+
+.content1{
+    display: grid;
+    grid-template-columns: 50% 48%;
+}
+
+.improve{
+    font-size: 55px;
+}
+
+.Our-Professionally{
+    font-size: 28px;
+}
+.cont-img{
+    margin-top: 50px;
+    width: 800px;
+}
+
+.cont-btn{
+    justify-self: left;
+}
+.btn{
+    margin-top: 45px;
+    margin-left: 0px;
+}
+.btn button{
+    width: 250x;
+    height: 50px;
+    padding: 15px 20px;
+    font-size: 22px;
+}
+
+.community img{
+    width: 250px;
+    height: 90px;
+    margin-top: 0px;
+}
+
+.Com-join{
+    font-size: 22px;
+    margin-top: 0px;
+}
+
+/* main2 CSS CODE */
+
+.main2{
+    flex-direction: row;
+    gap: 25px;
+    justify-content: center;
+}
+
+.dev-group{
+    padding: 30px;
+    width: 500px;
+    height: 475px;
+}
+
+.grptext{
+    font-size: 27px;
+}
+
+.devimg img{
+    width: 120px;
+    height: 120px;
+}
+
+.kev-jess{
+    font-size: 25px;
+}
+
+.kev-jess span{
+    font-size: 20px;
+}
+
+/* main 3 css code */
+
+.AS-FEAT{
+    font-size: 25px;
+}
+
+.content2{
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.cont2-logos{
+    width: 350px;
+    height: 100px;
+    padding: 24px;
+    border-radius: 20px;
+}
+
+.cont2-logos a{
+    margin-left: 40px;
+}
+
+.cont2-logos img{
+    width: 214px;
+    height: auto;
+}
+
+.home-benefits{
+    padding-top: 100px;
+}
+.home-benefits img{
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.hom-ben-cont{
+    margin-top: 60px;
+}
+
+
+.hom-ben-text1{
+ font-size: 45px;
+}
+
+.hom-ben-text2{
+    font-size: 25px;
+    line-height: 35px;
+}
+
+/* main 4css code */
+
+.main-4{
+    display: flex;
+    flex-direction: row-reverse;
+} 
+
+.main-4 img{
+    margin-top: 150px;
+    width: 678px;
+    height: 672px;
+}
+
+.howitwork-list h2{
+    font-size: 26px;
+    display: flex;
+}
+
+
+.num{
+    padding: 11px 22px;
+    margin-top: -10px;
+}
+
+.list-text{
+    font-size: 22px;
+}
+
+/* main-5 CSS CODE */
+
+.takeurskill{
+    font-size: 46px;
+}
+.takeurskill br{ 
+    display: initial;
+}
+
+.main-5txt{
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.main-5txt br{
+    display: initial;
+}
+.main5group{
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 100px;
+}
+
+.main5grp img{
+    width: 55px;
+    height: 61px;
+}
+
+.AccessTackle{
+    font-size: 32px;
+}
+
+.main5grptxt{
+    font-size: 26px;
+    line-height: 32px;
+}
+
+
+.main5btn{
+    font-size: 26px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 20px 40px;
+    border-radius: 60px;
+}
+
+/* MAIN 6 CSS CODE */
+
+
+.main6group{
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    gap:20px;
+    justify-content: center;
+}
+
+.main6grp{
+    font-size: 25px;
+    line-height: 30px;
+    display: grid;
+    grid-template-rows: 69% 36%;
+}
+
+.FAHGrp{
+    margin-top: 80px;
+    justify-content: left;
+    margin-left: 15px;
+    gap: 20px;
+}
+
+.FAH{
+    font-size: 28px;
+}
+
+.FAH span{
+    font-size: 22px;
+}
+
+/* main-7 css code */
+
+.FAQs{
+    font-size: 55px;
+}
+
+.list{
+    width: 800px;
+    padding: 16px 24px;
+    display: grid;
+    grid-template-columns: 85% 15%;
+    
+}
+.list img{
+    width: 18;
+    height: 20px;
+}
+.list span{
+    padding-top: 10px;
+    margin-left: 2px;
+}
+
+.listtxt{
+    font-size: 25px;
+}
+
+.join-text{
+    font-size:53px;
+}
+.join-text br{
+    display: initial;
+}
+
+.our-highly{
+    font-size: 25px;
+}
+
+/* main 8 css code */
+
+.main-8{
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    display: grid;
+    grid-template-columns: 50% 48%;
+}
+
+.Are-you{
+    font-size: 48px;
+}
+.Our-Hiring{
+    font-size: 22px;
+    line-height: 35px;
+}
+
+.main8-btn{
+    margin: 50px 0px;
+}
+
+.Start-Hiring{
+    padding: 15px 30px;
+    font-size: 25px;
+}
+
+.main-8 img{
+    margin-top: 150px;
+    width: 600px;
+}
+
+/* main-9 css code */
+
+.main9nav{
+    flex-direction: row;
+}
+
+.main9grp{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    gap: 50px;
+}
+
+.grp1{
+    margin-top: -30px;
+}
+.Stay-up{
+    font-size: 35px;
+}
+
+.with-new{
+    margin-top: 5px;
+    font-size: 22px;
+}
+
+.main9-btn button{
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 12px 28px;
+}
+
+.grp2{
+    margin-top:30px;
+    display: grid;
+    grid-template-columns: 25% 22% 21% 23%;
+    gap: 10px;
+}
+
+.grp2txt{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.grp2txt ul{
+    font-weight: initial;
+}
+
+hr{
+    margin-top: 50px;
+}
+
+/* footer css code */
+
+footer{
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.footertxt{
+    font-size: 25px;
+}
+
+.footertxt2 a{
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+}
